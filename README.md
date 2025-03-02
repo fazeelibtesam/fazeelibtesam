@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazeelibtesam&label=Profile%20views&color=0e75b6&style=flat" alt="fazeelibtesam" /> </p>
 
-- 🔭 I’m currently working on Fraud detection
+- 🔭 I’m currently working on Model Tuning
 - 🌱 I’m currently learning Google Cloud
 - 🧑‍💻 All of my projects are available at https://github.com/fazeelibtesam?tab=repositories
 - 😄 Pronouns: he/him
