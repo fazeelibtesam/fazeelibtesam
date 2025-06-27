@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fazeel Ibtesam</h1>
-<h3 align="center">Data Science enthusiast with hands-on experience in Data Analysis, Machine Learning, Business Intelligence, and delivering End-to-End Analytical Solutions./h3>
+<h3 align="center">Data Science enthusiast with hands-on experience in Data Analysis, Machine Learning, Business Intelligence, and delivering End-to-End Analytical Solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazeelibtesam&label=Profile%20views&color=0e75b6&style=flat" alt="fazeelibtesam" /> </p>
 
