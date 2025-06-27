@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/fazeel33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fazeel33" height="30" width="40" /></a>
 </p>
 
-<!--[![An image of @fazeelibtesam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fazeelibtesam)](https://holopin.io/@fazeelibtesam)-->
+[![An image of @fazeelibtesam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fazeelibtesam)](https://holopin.io/@fazeelibtesam)
 <!--
 **fazeelibtesam/fazeelibtesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
